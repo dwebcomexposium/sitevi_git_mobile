@@ -1,0 +1,80 @@
+.press-contact .inside .block-content .relation .img1 {
+    margin-right: 15px;
+    top: 0;
+    float: left;
+    width: 70px;
+    height: 84px;
+    background: url(/theme/sitevi_desktop/img/_tmp/Anna-GONZALVO.jpg) 50% no-repeat;
+}
+
+.press-contact .inside .block-content .relation .img2 {
+    margin-right: 15px;
+    top: 0;
+    float: left;
+    width: 70px;
+    height: 84px;
+    background: url(/theme/sitevi_desktop/img/_tmp/Maxime-SZTABHOLZ.jpg) 50% no-repeat;
+}
+
+.press-contact .inside .block-content .relation .img3 {
+    margin-right: 15px;
+    top: 0;
+    float: left;
+    width: 70px;
+    height: 84px;
+    /*background: url(/theme/sitevi_desktop/img/_tmp/Anna-GONZALVO.jpg) 50% no-repeat;*/
+}
+
+.press-contact .inside .block-content .relation .img4 {
+    margin-right: 15px;
+    top: 0;
+    float: left;
+    width: 70px;
+    height: 84px;
+    background: url(/theme/sitevi_desktop/img/_tmp/Donatella-FIORAVANTI.jpg) 50% no-repeat;
+}
+
+.press-contact .inside .block-content .relation .img5 {
+    margin-right: 15px;
+    top: 0;
+    float: left;
+    width: 70px;
+    height: 84px;
+    background: url(/theme/sitevi_desktop/img/_tmp/Patrizia-FERRANDI.jpg) 50% no-repeat;
+}
+#my-selection-container {
+    margin: auto;
+}
+#esf_new_search_new {
+    top: 135%;
+    left: 80%;
+}
+.catalog_mobile_result_count {
+    display: none;
+}
+
+#cxpmClientAccountWidget {
+  margin-left: 26em;
+}
+
+.nf-form-input {
+   width: 100%;
+   float: none;
+}
+
+.nf-main-content {
+   background: #f36f23;
+}
+
+.nf-form-submit [class^="btn"] {
+   background: #8fbe24;
+   border-color: #f36f23;
+}
+
+.nf-form-submit [class^="btn"]:hover {
+   background: #9ec543;
+   border-color: #f36f23;
+}
+.ql-item.linkid175904, .ql-item.linkid175910 {
+   display: none;
+}
