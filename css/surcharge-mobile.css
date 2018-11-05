@@ -7280,7 +7280,7 @@ a .exhibitor-categories__img img:hover {
 
 .sitevi-btn {
     padding: 2rem 3rem;
-    min-width: 16rem;
+    min-width: 19rem;
     font-size: 1.6rem;
     font-weight: 700;
     text-transform: none;
@@ -7609,10 +7609,15 @@ a .exhibitor-categories__img img:hover {
 .parent786543 .list-articles,
 .content508607 .list-articles {
     background: white;
-    margin-top: 3.5em !important;
-    margin-bottom: 6em;
+    margin-top: 2.5em !important;
+    margin-bottom: 2em;
     padding: 0;
     position: relative
+}
+
+.parent786543 .list-articles .la-slider,
+.content508607 .list-articles .la-slider {
+    background-color: white
 }
 
 .parent786543 .list-articles .slider-pagin,
@@ -7622,7 +7627,7 @@ a .exhibitor-categories__img img:hover {
     text-align: center;
     border-top: 0 none;
     background: none;
-    height: 50px
+    height: 35px
 }
 
 .parent786543 .list-articles .slider-pagin .slider-pagin-nb,
@@ -7634,12 +7639,15 @@ a .exhibitor-categories__img img:hover {
 .content508607 .list-articles .slider-pagin .slider-pagin-btn {
     position: relative;
     top: 0;
-    right: 0
+    right: 0;
+    background-color: white;
+    padding-bottom: 25px
 }
 
 .parent786543 .list-articles .main-title-with-link,
 .content508607 .list-articles .main-title-with-link {
-    display: block
+    display: block;
+    margin-bottom: 0.6em
 }
 
 .parent786543 .list-articles .main-title-with-link>.main-title,
@@ -7653,8 +7661,15 @@ a .exhibitor-categories__img img:hover {
     text-transform: none
 }
 
+.parent786543 .list-articles .slider-content,
+.content508607 .list-articles .slider-content {
+    border: 0 none;
+    padding-bottom: 2.5em
+}
+
 .parent786543 .list-articles .slider-content .slider-item,
 .content508607 .list-articles .slider-content .slider-item {
+    border: 0 none;
     background: white;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -7668,16 +7683,22 @@ a .exhibitor-categories__img img:hover {
     -ms-flex-align: center;
     align-items: center;
     width: 100%;
-    margin-top: 0
+    margin-top: 0;
+    padding-top: 0
 }
 
 .parent786543 .list-articles .slider-content .slider-item .la-item-img,
 .content508607 .list-articles .slider-content .slider-item .la-item-img {
-    padding: 2.5rem
+    padding: 0;
+    width: 140px;
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1
 }
 
 .parent786543 .list-articles .slider-content .slider-item .la-item-content,
 .content508607 .list-articles .slider-content .slider-item .la-item-content {
+    border: 0 none;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -7688,7 +7709,14 @@ a .exhibitor-categories__img img:hover {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    max-width: 58rem
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+    -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+            order: 0;
+    min-height: 0
 }
 
 .parent786543 .list-articles .slider-content .slider-item .la-item-content .la-item-btn,
@@ -7701,7 +7729,8 @@ a .exhibitor-categories__img img:hover {
     text-align: left;
     font-style: italic;
     margin: 0;
-    padding: 2.8rem 0 0rem 4rem;
+    padding: 3.8rem 0 0rem 2rem;
+    font-size: 1.7rem;
     position: relative;
     max-width: 47rem;
     color: #000
@@ -7725,8 +7754,9 @@ a .exhibitor-categories__img img:hover {
 .parent786543 .list-articles .slider-content .slider-item .la-item-content .la-item-title,
 .content508607 .list-articles .slider-content .slider-item .la-item-content .la-item-title {
     font-size: 2.4rem;
-    color: white;
-    font-family: "ITC Avant Garde Gothic W01", sans-serif;
+    color: black;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
     font-weight: normal;
     text-transform: none;
     position: relative;
@@ -7779,7 +7809,7 @@ a .exhibitor-categories__img img:hover {
     width: 100%;
     background-color: rgba(227, 118, 58, 0.9);
     color: white;
-    padding: 2.5em 3em 3em
+    padding: 2em 2.5em 2.5em
 }
 
 .exposant-banner .exposant-banner-content h1,
@@ -7791,9 +7821,9 @@ a .exhibitor-categories__img img:hover {
 .exposant-banner .exposant-banner-content h1 {
     text-transform: capitalize;
     font-family: "ITC Avant Garde Gothic W01", sans-serif;
-    font-size: 47px;
+    font-size: 46px;
     font-weight: 700;
-    line-height: 47px;
+    line-height: 46px;
     margin: 0 0 25px 0;
     padding: 0
 }
@@ -7908,7 +7938,7 @@ a .exhibitor-categories__img img:hover {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    margin-top: 20px
+    padding-bottom: 0
 }
 
 .chiffres-cle .chiffres-cle-numbers li strong {
@@ -8053,8 +8083,8 @@ a .exhibitor-categories__img img:hover {
 
 .production-expertise ul p {
     margin: 15px 0 0 0;
-    font-size: 18px;
-    line-height: 26px
+    font-size: 16px;
+    line-height: 22px
 }
 
 .block-video {
@@ -8221,10 +8251,10 @@ a .exhibitor-categories__img img:hover {
 
 .devenir-exposant .block-wrap .img {
     margin: 0 0 20px 0;
-    -webkit-transform: scale(0.5);
-    -ms-transform: scale(0.5);
-    transform: scale(0.5);
-    opacity: 0;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
     -webkit-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out
