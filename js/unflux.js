@@ -82,7 +82,11 @@ if(b.numberStep){var c=this.each(function(){this._animateNumberSetter=b.numberSt
             $('.chiffres-cle').each(function(){
             
                 $elem = $(this);
-                var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(' ');
+                if($('html').attr( "lang" ) == 'en') {
+                    var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',');
+                } else {
+                    var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(' ');
+                }
             
                 if (that.isScrolledIntoView($elem, $window)) {
 
