@@ -7646,7 +7646,8 @@ a .exhibitor-categories__img img:hover {
     text-align: center;
     border-top: 0 none;
     background: none;
-    height: 35px
+    height: 35px;
+    opacity: 0
 }
 
 .parent786543 .list-articles .slider-pagin .slider-pagin-nb,
