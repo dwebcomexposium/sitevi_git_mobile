@@ -7472,14 +7472,13 @@ a .exhibitor-categories__img img:hover {
     color: #E3763A
 }
 
+.content508607 .wrapper {
+    margin: 0
+}
+
 .parent786543 .is-stuck.site-banner,
 .content508607 .is-stuck.site-banner {
     border-bottom: 0 none
-}
-
-.parent786543 .wrapper,
-.content508607 .wrapper {
-    margin: 0
 }
 
 .parent786543 .block-custom.page-header,
@@ -7547,6 +7546,12 @@ a .exhibitor-categories__img img:hover {
     padding: 1.5em 1em;
     letter-spacing: 1.3px;
     position: relative
+}
+
+.parent786543 .quicklinks-navigation .ql-list .ql-item .ql-item-link.is-active,
+.content508607 .quicklinks-navigation .ql-list .ql-item .ql-item-link.is-active {
+    color: #E3763A;
+    background-color: white
 }
 
 .parent786543 .quicklinks-navigation .ql-list .ql-item .ql-item-link::after,
