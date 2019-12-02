@@ -1,4 +1,4 @@
-jQuery(function($){
+/*jQuery(function($){
 $("div.lang-switcher > ul").append('<li class="ls-lang-item ls-lang-dweb"><a class="ls-lang-link" href="/SITEVI-Espagnol"><span style="border-bottom: 1px dotted;">ES</span></a></li>');
 $("div.lang-switcher > ul").append('<li class="ls-lang-item ls-lang-dwebb"><a class="ls-lang-link" href="/SITEVI-Portugues"><span style="border-bottom: 1px dotted;">PT</span></a></li>');
 $("div.lang-switcher > ul").append('<li class="ls-lang-item ls-lang-dwebbb"><a class="ls-lang-link" href="/SITEVI-Italiano"><span style="border-bottom: 1px dotted;">IT</span></a></li>');
@@ -28,4 +28,4 @@ if((window.location.href.indexOf("Italiano") > -1) && !fouettele) {
        $('.ls-lang-fr > a').attr("href", "/")
        fouettele = true;
 }
-});
+});*/
