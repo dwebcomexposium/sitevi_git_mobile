@@ -92,48 +92,48 @@
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/123b5137-3b00-48e9-bfec-161edb6f2377.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/123b5137-3b00-48e9-bfec-161edb6f2377.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/e2726b32-fedc-4803-806a-a029c705ad22.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/cc19831d-e4b6-40fa-b009-45b1365dde5d.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/67615a4b-d349-4fda-8180-f0657773c140.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/ebddf8dd-9674-4364-86a0-f7d444cab14e.svg#ebddf8dd-9674-4364-86a0-f7d444cab14e) format("svg");
+   src: url(fonts/sitevi/123b5137-3b00-48e9-bfec-161edb6f2377.eot?#iefix);
+   src: url(fonts/sitevi/123b5137-3b00-48e9-bfec-161edb6f2377.eot?#iefix) format("eot"), url(fonts/sitevi/e2726b32-fedc-4803-806a-a029c705ad22.woff2) format("woff2"), url(fonts/sitevi/cc19831d-e4b6-40fa-b009-45b1365dde5d.woff) format("woff"), url(fonts/sitevi/67615a4b-d349-4fda-8180-f0657773c140.ttf) format("truetype"), url(fonts/sitevi/ebddf8dd-9674-4364-86a0-f7d444cab14e.svg#ebddf8dd-9674-4364-86a0-f7d444cab14e) format("svg");
    font-weight: 200;
    font-style: normal;
 }
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/07413afc-2280-4cfc-8860-184839a93fa4.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/07413afc-2280-4cfc-8860-184839a93fa4.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/6f1146c0-9c0b-4949-866d-9affc396531f.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/2c50f982-bb73-4891-8d0e-587c1136c2e5.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/abf065fe-a1ab-4013-8c49-45ce7f8ac828.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/33f16cdf-c09a-4344-89ce-e17a5ecf4664.svg#33f16cdf-c09a-4344-89ce-e17a5ecf4664) format("svg");
+   src: url(fonts/sitevi/07413afc-2280-4cfc-8860-184839a93fa4.eot?#iefix);
+   src: url(fonts/sitevi/07413afc-2280-4cfc-8860-184839a93fa4.eot?#iefix) format("eot"), url(fonts/sitevi/6f1146c0-9c0b-4949-866d-9affc396531f.woff2) format("woff2"), url(fonts/sitevi/2c50f982-bb73-4891-8d0e-587c1136c2e5.woff) format("woff"), url(fonts/sitevi/abf065fe-a1ab-4013-8c49-45ce7f8ac828.ttf) format("truetype"), url(fonts/sitevi/33f16cdf-c09a-4344-89ce-e17a5ecf4664.svg#33f16cdf-c09a-4344-89ce-e17a5ecf4664) format("svg");
    font-weight: 300;
    font-style: normal;
 }
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/4cadb55f-822a-4a35-8918-becfc5a866a3.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/af007af5-dcfa-465a-a278-47ab3eb9a589.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/9a9365bb-bc37-4768-8d00-df0bdf405665.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/4443cc42-374b-40e5-968c-b29f549f0835.svg#4443cc42-374b-40e5-968c-b29f549f0835) format("svg");
+   src: url(fonts/sitevi/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix);
+   src: url(fonts/sitevi/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix) format("eot"), url(fonts/sitevi/4cadb55f-822a-4a35-8918-becfc5a866a3.woff2) format("woff2"), url(fonts/sitevi/af007af5-dcfa-465a-a278-47ab3eb9a589.woff) format("woff"), url(fonts/sitevi/9a9365bb-bc37-4768-8d00-df0bdf405665.ttf) format("truetype"), url(fonts/sitevi/4443cc42-374b-40e5-968c-b29f549f0835.svg#4443cc42-374b-40e5-968c-b29f549f0835) format("svg");
    font-weight: 700;
    font-style: normal;
 }
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/70d946eb-68f0-4cad-b3dc-7168cdd876b9.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/70d946eb-68f0-4cad-b3dc-7168cdd876b9.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/621b2d9b-ee94-48dd-bc75-68e08c0aa8e1.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/b389d72a-4204-4021-b50d-e8c396a181fd.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/57bab57f-0dd2-42c8-a46b-4553fe3c3611.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/942c9966-fa59-413f-9a0c-18a1949e834d.svg#942c9966-fa59-413f-9a0c-18a1949e834d) format("svg");
+   src: url(fonts/sitevi/70d946eb-68f0-4cad-b3dc-7168cdd876b9.eot?#iefix);
+   src: url(fonts/sitevi/70d946eb-68f0-4cad-b3dc-7168cdd876b9.eot?#iefix) format("eot"), url(fonts/sitevi/621b2d9b-ee94-48dd-bc75-68e08c0aa8e1.woff2) format("woff2"), url(fonts/sitevi/b389d72a-4204-4021-b50d-e8c396a181fd.woff) format("woff"), url(fonts/sitevi/57bab57f-0dd2-42c8-a46b-4553fe3c3611.ttf) format("truetype"), url(fonts/sitevi/942c9966-fa59-413f-9a0c-18a1949e834d.svg#942c9966-fa59-413f-9a0c-18a1949e834d) format("svg");
    font-weight: 500;
    font-style: normal;
 }
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/f134f0bc-3ee0-4d03-800d-27bec2d9c28b.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/f134f0bc-3ee0-4d03-800d-27bec2d9c28b.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/62a90433-1c82-4e9f-a218-634e2d457d76.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/51abad6d-9a6d-4756-9c1c-1a5f31ceaecd.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/61bbbfc6-7399-4c97-b4f6-dcf361fd1163.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/19486f48-77e9-4b3c-9e32-a24728540c7e.svg#19486f48-77e9-4b3c-9e32-a24728540c7e) format("svg");
+   src: url(fonts/sitevi/f134f0bc-3ee0-4d03-800d-27bec2d9c28b.eot?#iefix);
+   src: url(fonts/sitevi/f134f0bc-3ee0-4d03-800d-27bec2d9c28b.eot?#iefix) format("eot"), url(fonts/sitevi/62a90433-1c82-4e9f-a218-634e2d457d76.woff2) format("woff2"), url(fonts/sitevi/51abad6d-9a6d-4756-9c1c-1a5f31ceaecd.woff) format("woff"), url(fonts/sitevi/61bbbfc6-7399-4c97-b4f6-dcf361fd1163.ttf) format("truetype"), url(fonts/sitevi/19486f48-77e9-4b3c-9e32-a24728540c7e.svg#19486f48-77e9-4b3c-9e32-a24728540c7e) format("svg");
    font-weight: 600;
    font-style: normal;
 }
 
 @font-face {
    font-family: ITC Avant Garde Gothic W01;
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/f16377dc-5142-4e74-8583-86ada1a03483.eot?#iefix);
-   src: url(/theme/sitevi_git_mobile/fonts/sitevi/f16377dc-5142-4e74-8583-86ada1a03483.eot?#iefix) format("eot"), url(/theme/sitevi_git_mobile/fonts/sitevi/7a4aeff8-d212-4135-86a0-fef9ad776892.woff2) format("woff2"), url(/theme/sitevi_git_mobile/fonts/sitevi/5e636559-5992-4c97-a50a-a8f46570feba.woff) format("woff"), url(/theme/sitevi_git_mobile/fonts/sitevi/b9c39b69-c596-4e97-8f56-bd7a9716d7e1.ttf) format("truetype"), url(/theme/sitevi_git_mobile/fonts/sitevi/8fd47cd9-b863-4716-b093-aae810bd6681.svg#8fd47cd9-b863-4716-b093-aae810bd6681) format("svg");
+   src: url(fonts/sitevi/f16377dc-5142-4e74-8583-86ada1a03483.eot?#iefix);
+   src: url(fonts/sitevi/f16377dc-5142-4e74-8583-86ada1a03483.eot?#iefix) format("eot"), url(fonts/sitevi/7a4aeff8-d212-4135-86a0-fef9ad776892.woff2) format("woff2"), url(fonts/sitevi/5e636559-5992-4c97-a50a-a8f46570feba.woff) format("woff"), url(fonts/sitevi/b9c39b69-c596-4e97-8f56-bd7a9716d7e1.ttf) format("truetype"), url(fonts/sitevi/8fd47cd9-b863-4716-b093-aae810bd6681.svg#8fd47cd9-b863-4716-b093-aae810bd6681) format("svg");
    font-weight: 800;
    font-style: normal;
 }
@@ -156,7 +156,7 @@ a {
 
 .content206559 a,
 a:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 #zone4:after {
@@ -338,7 +338,7 @@ a:hover {
    display: block;
    height: 10px;
    width: 100%;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png) 50%;
+   background: url(img/bg-dotted.png) 50%;
    z-index: 0;
 }
 
@@ -352,7 +352,7 @@ a:hover {
    position: relative;
    height: 710px;
    max-height: calc(100vh - 111px);
-   background: url(/theme/sitevi_git_mobile/img/_tmp/404.jpg) top no-repeat;
+   background: url(img/_tmp/404.jpg) top no-repeat;
    background-size: cover;
 }
 
@@ -385,7 +385,7 @@ a:hover {
    font-size: 10rem;
    font-weight: 200;
    line-height: 1em;
-   color: #f36f23;
+   color: #952456;
    border: none;
    height: 510px;
    width: 510px;
@@ -440,7 +440,7 @@ a:hover {
 }
 
 .error-page .ep-intro .intro a {
-   color: #f36f23;
+   color: #952456;
 }
 
 .error-page .ep-intro .intro a:after {
@@ -450,7 +450,7 @@ a:hover {
    margin-top: 40px;
    width: 15px;
    height: 15px;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-arrow-right-orange.svg) 50%/contain no-repeat;
+   background: url(img/icons/icon-arrow-right-orange.svg) 50%/contain no-repeat;
 }
 
 .error-page .ep-form-wrap {
@@ -530,7 +530,7 @@ a:hover {
 .partner-list .inside .pl-trigger-wrap .js-pal-plus:hover,
 .partner-list .inside .pl-trigger-wrap .js-pal-plusactive:focus,
 .partner-list .inside .pl-trigger-wrap .js-pal-plusactive:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
    background: none;
 }
 
@@ -594,7 +594,7 @@ a:hover {
 .cc-cookie-accept {
    right: 0;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    min-width: 90px;
    text-transform: uppercase;
    text-align: center;
@@ -627,7 +627,7 @@ a:hover {
    font-weight: 200;
    line-height: 1.3;
    text-transform: none;
-   color: #8fbe24;
+   color: #7A8C5D;
    border: none;
 }
 
@@ -697,7 +697,7 @@ a:hover {
 .press-meeting .block-title,
 .press-meeting .contacts-list .inside h1,
 .press-meeting .partner-list .inside h1 {
-   color: #f36f23;
+   color: #952456;
    padding-left: 20px;
 }
 
@@ -734,7 +734,7 @@ a:hover {
 .goals .contacts-list .inside h1,
 .goals .partner-list .inside h1,
 .partner-list .inside .goals h1 {
-   color: #f36f23;
+   color: #952456;
    padding-top: 35px;
    padding-left: 0;
    margin: 0;
@@ -834,7 +834,7 @@ a:hover {
       display: block;
       width: 73px;
       height: 67px;
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-green.png) 50%/contain no-repeat;
+      background: url(img/corner-left-l-green.png) 50%/contain no-repeat;
       z-index: 2;
    }
    .contacts-list .inside .content206559 h1:before,
@@ -852,7 +852,7 @@ a:hover {
    .partner-list .inside .content206559 h1:before,
    .partner-list .inside .content216440 h1:before,
    .partner-list .inside .content216632 h1:before {
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-big-green.png) 50%/contain no-repeat;
+      background: url(img/corner-left-l-big-green.png) 50%/contain no-repeat;
       top: -184px;
       width: 125px;
       height: 253px;
@@ -863,7 +863,7 @@ a:hover {
    .press-meeting .block-title:before,
    .press-meeting .contacts-list .inside h1:before,
    .press-meeting .partner-list .inside h1:before {
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-inverse-orange.png) 50%/contain no-repeat;
+      background: url(img/corner-left-l-inverse-orange.png) 50%/contain no-repeat;
       top: 70px;
       width: 75px;
       height: 92px;
@@ -921,7 +921,7 @@ a:hover {
    width: 50px;
    top: -93px;
    height: 222px;
-   background: #8fbe24;
+   background: #7A8C5D;
    z-index: 0;
 }
 
@@ -944,7 +944,7 @@ a:hover {
    top: 60px;
    width: 500px;
    height: 151px;
-   background-image: url(/theme/sitevi_git_mobile/img/corner-left-z-orange.png);
+   background-image: url(img/corner-left-z-orange.png);
 }
 
 .contacts-list .inside .flickr-gallery h1:before,
@@ -956,7 +956,7 @@ a:hover {
    top: 60px;
    width: 500px;
    height: 151px;
-   background-image: url(/theme/sitevi_git_mobile/img/corner-left-z-green.png);
+   background-image: url(img/corner-left-z-green.png);
 }
 
 .article_list .block-title:before,
@@ -1035,7 +1035,7 @@ a:hover {
    left: inherit;
    width: 50px;
    height: 50px;
-   background: #8fbe24;
+   background: #7A8C5D;
    color: #fff;
 }
 
@@ -1078,11 +1078,12 @@ a:hover {
 
 .site-logo__img {
    position: relative;
-   width: 200px;
-   height: 90px;
-   margin: auto;
+   width: 240px;
+   height: 79px;
+   margin-left:20px;
    padding: 0;
-   background: url(/theme/sitevi_git_mobile/img/logo-sitevi.svg) 50%/contain no-repeat;
+   top: 10px;
+   background: url(img/logo-sitevi-large-2023.svg) 100%/contain no-repeat;
    border: none;
    z-index: 1;
    -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -1090,7 +1091,7 @@ a:hover {
    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
-@media (min-width: 750px) {
+/*@media (min-width: 750px) {
    .site-logo__img {
       height: 100px;
    }
@@ -1101,7 +1102,7 @@ a:hover {
       width: 260px;
       height: 125px;
    }
-}
+}*/
 
 .page-header {
    color: #000;
@@ -1119,7 +1120,7 @@ a:hover {
 @media (min-width: 750px) {
    .page-header {
       height: auto;
-      background: #fff url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+      background: #fff url(img/bg-dotted.png);
    }
 }
 
@@ -1240,7 +1241,7 @@ a:hover {
    font-size: 16px;
    font-size: 1.6rem;
    font-weight: 700;
-   color: #8fbe24;
+   color: #7A8C5D;
    line-height: 1;
    text-transform: uppercase;
 }
@@ -1291,7 +1292,7 @@ a:hover {
    font-weight: 500;
    text-transform: none;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    border: none;
 }
 
@@ -1302,7 +1303,7 @@ a:hover {
 
 .estimation .btn-primary:focus,
 .estimation .btn-primary:hover {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .estimation .btn-primary:before {
@@ -1316,7 +1317,7 @@ a:hover {
    -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
    -o-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-estimate.svg);
+   background-image: url(img/icons/icon-estimate.svg);
 }
 
 .header-carousel {
@@ -1342,7 +1343,7 @@ a:hover {
       left: -370px;
       width: 720px;
       height: 215px;
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-inverse-big-green.png) 0 0 no-repeat;
+      background: url(img/corner-left-l-inverse-big-green.png) 0 0 no-repeat;
    }
    .front .header-carousel:after {
       display: none;
@@ -1404,60 +1405,20 @@ a:hover {
    z-index: 2;
 }
 
-.header-carousel__slider:before {
-   content: "";
-   position: absolute;
-   top: 0;
-   left: 0;
-   bottom: 0;
-   right: 0;
-   z-index: 0;
-   display: block;
-   width: 100%;
-   height: 100%;
-   background: #f36f23;
-   border-radius: 50%;
-   border: 30px solid #8fbe24;
-   -webkit-box-sizing: border-box;
-           box-sizing: border-box;
-}
-
-@media (min-width: 750px) {
-   .header-carousel__slider:before {
-      border-width: 30px;
-   }
-}
-
-@media (min-width: 1100px) {
-   .header-carousel__slider:before {
-      border-width: 40px;
-   }
-}
 
 .header-carousel__item {
    position: relative;
    z-index: 2;
-   padding: 60px;
+   padding: 30px;
    overflow: hidden;
-   width: calc(100vw - 60px);
+   width: calc(100vw - 30px);
    margin: 0 auto;
 }
 
-@media (min-width: 750px) {
-   .header-carousel__item {
-      padding: 60px;
-   }
-}
-
-@media (min-width: 1100px) {
-   .header-carousel__item {
-      padding: 80px;
-   }
-}
 
 .header-carousel__item__img {
    z-index: 2;
-   border-radius: 50%;
+/*   border-radius: 50%;*/
    max-width: 100%;
    max-height: 100%;
    margin: auto;
@@ -1478,22 +1439,7 @@ a:hover {
    background: #000;
 }
 
-@media (min-width: 750px) {
-   .header-carousel__item__content {
-      margin-left: 0;
-      padding: 15px 20px;
-      font-size: 20px;
-      font-size: 2rem;
-   }
-}
 
-@media (min-width: 1100px) {
-   .header-carousel__item__content {
-      bottom: 105px;
-      font-size: 24px;
-      font-size: 2.4rem;
-   }
-}
 
 .main-navigation {
    position: absolute;
@@ -1535,7 +1481,7 @@ a:hover {
 
 @media (min-width: 750px) {
    .main-navigation:after {
-      background: url(/theme/sitevi_git_mobile/img/bg-dotted-line.gif) top repeat-x;
+      background: url(img/bg-dotted-line.gif) top repeat-x;
    }
 }
 
@@ -1734,7 +1680,7 @@ a:hover {
    left: 15px;
    right: 15px;
    height: 0;
-   background: #8fbe24;
+   background: #7A8C5D;
    opacity: 0;
    -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
    -o-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -1753,11 +1699,11 @@ a:hover {
 
 .footer-navigation .mn-menu-item-175755>.btn-primary:after,
 .mn-menu-item-175755>.mn-link:after {
-   background: #f36f23;
+   background: #952456;
 }
 
 .mn-item-has-submenu:after {
-   color: #8fbe24;
+   color: #7A8C5D;
    top: 12px;
 }
 
@@ -1841,7 +1787,7 @@ a:hover {
 .mn-link.mn-link:focus,
 .mn-link.mn-link:hover {
    background: none;
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .footer-navigation .mn-menu-item-175755 .btn-primary:focus,
@@ -1870,17 +1816,17 @@ a:hover {
 .mn-menu-item-175755.is-open .mn-link.mn-link:focus,
 .mn-menu-item-175755.is-open .mn-link.mn-link:hover,
 .mn-menu-item-175755.is-open>.mn-link.mn-link {
-   color: #f36f23;
+   color: #952456;
 }
 
 .footer-navigation .mn-menu-item-175754>.btn-primary,
 .mn-menu-item-175754>.mn-link {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .footer-navigation .mn-menu-item-175755>.btn-primary,
 .mn-menu-item-175755>.mn-link {
-   color: #f36f23;
+   color: #952456;
 }
 
 .footer-navigation .btn-primary:focus [class*=icon-],
@@ -1892,7 +1838,7 @@ a:hover {
 .mn-link.mn-link.is-active [class*=icon-],
 .mn-link.mn-link:focus [class*=icon-],
 .mn-link.mn-link:hover [class*=icon-] {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .footer-navigation .mn-menu-item-175755 .btn-primary:focus [class*=icon-],
@@ -1919,7 +1865,7 @@ a:hover {
 .mn-menu-item-175755.is-open .mn-link.mn-link.is-active [class*=icon-],
 .mn-menu-item-175755.is-open .mn-link.mn-link:focus [class*=icon-],
 .mn-menu-item-175755.is-open .mn-link.mn-link:hover [class*=icon-] {
-   color: #f36f23;
+   color: #952456;
 }
 
 .mn-menu-submenu {
@@ -1949,7 +1895,7 @@ a:hover {
 .mn-menu-submenu .mn-link.is-active,
 .mn-menu-submenu .mn-link:focus,
 .mn-menu-submenu .mn-link:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
    background: none;
 }
 
@@ -1971,16 +1917,16 @@ a:hover {
 .mn-menu-submenu .mn-link.is-active .linkid175755,
 .mn-menu-submenu .mn-link:focus .linkid175755,
 .mn-menu-submenu .mn-link:hover .linkid175755 {
-   color: #f36f23;
+   color: #952456;
 }
 
 .mn-menu-submenu .is-open>a {
    background: none;
-   color: #8fbe24 !important;
+   color: #7A8C5D !important;
 }
 
 .mn-menu-item-175755 .mn-menu-submenu .is-open>a {
-   color: #f36f23 !important;
+   color: #952456 !important;
 }
 
 .linkid175911,
@@ -2024,7 +1970,7 @@ a:hover {
    width: 165px;
    height: 27px !important;
    text-indent: -9999px;
-   background: url(/theme/sitevi_git_mobile/img/logo-comexposium.svg) 50%/contain no-repeat;
+   background: url(img/logo-comexposium.svg) 50%/contain no-repeat;
 }
 
 @media (min-width: 750px) {
@@ -2070,7 +2016,7 @@ a:hover {
 
 .side-navigation {
    margin: 0 -20px;
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 @media (min-width: 750px) {
@@ -2182,39 +2128,39 @@ a:hover {
 }
 
 .linkid175899 .btn-primary {
-   background-color: #f36f23;
+   background-color: #952456;
 }
 
 .linkid175899 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-estimate.svg);
+   background-image: url(img/icons/icon-estimate.svg);
 }
 
 .linkid175900 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-reserve.svg);
+   background-image: url(img/icons/icon-reserve.svg);
 }
 
 .linkid175901 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-plane.svg);
+   background-image: url(img/icons/icon-plane.svg);
 }
 
 .linkid175902 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-news.svg);
+   background-image: url(img/icons/icon-news.svg);
 }
 
 .linkid246297 .btn-primary {
-   background-color: #f36f23;
+   background-color: #952456;
 }
 
 .linkid246297 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-badge.svg);
+   background-image: url(img/icons/icon-badge.svg);
 }
 
 .linkid246808 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-listing-exposants.svg);
+   background-image: url(img/icons/icon-listing-exposants.svg);
 }
 
 .linkid246809 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-map.svg);
+   background-image: url(img/icons/icon-map.svg);
 }
 
 .site-banner .lang-switcher {
@@ -2228,7 +2174,7 @@ a:hover {
    position: absolute;
    opacity: 1;
    padding: 0;
-   background-color: #a5cd4f;
+   background-color: #ACB698;
 }
 
 @media (min-width: 750px) {
@@ -2302,7 +2248,7 @@ a:hover {
       height: 17px;
       margin: -5px 0 0 10px;
       padding: 0;
-      background: url(/theme/sitevi_git_mobile/img/icons/icon-arrow-down.svg) 50%/contain no-repeat;
+      background: url(img/icons/icon-arrow-down.svg) 50%/contain no-repeat;
       border: none;
       vertical-align: middle;
       opacity: .7;
@@ -2346,7 +2292,7 @@ a:hover {
 
 .ls-lang-link:focus,
 .ls-lang-link:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .breadcrumb-nav .bn-item-link {
@@ -2355,7 +2301,7 @@ a:hover {
 
 .breadcrumb-nav .bn-item-link:focus,
 .breadcrumb-nav .bn-item-link:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .pagination {
@@ -2368,7 +2314,7 @@ a:hover {
    left: 0;
    width: 100%;
    height: 2px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted-line.gif) top repeat-x;
+   background: url(img/bg-dotted-line.gif) top repeat-x;
    z-index: 1;
    bottom: 65px;
 }
@@ -2390,11 +2336,11 @@ a:hover {
 
 .pagination .pagin-item a .icon,
 .pagination .pagin-item a .icon:before {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .pagination .pagin-item a:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
    background: none;
 }
 
@@ -2417,7 +2363,7 @@ a:hover {
 }
 
 .pagination .is-visible a {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .pagination .pagin-item.pagin-next {
@@ -2449,12 +2395,12 @@ a:hover {
 }
 
 .pagination .pagin-item.is-active {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .pagination .pagin-item.is-active a {
    background: none;
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .pagination .pagin-item.is-active a:after {
@@ -2466,7 +2412,7 @@ a:hover {
    top: -14px;
    left: 100px;
    z-index: 2;
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .pagination:first-child:before {
@@ -2516,7 +2462,7 @@ a:hover {
    width: 23px;
    height: 23px;
    color: #dbd9d7;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-search.svg) 50%/contain no-repeat;
+   background: url(img/icons/icon-search.svg) 50%/contain no-repeat;
 }
 
 .gsf-trigger .icon:before {
@@ -2536,12 +2482,12 @@ a:hover {
 
 .site-banner .gsf-submit-btn {
    color: #fff;
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .site-banner .gsf-submit-btn:focus,
 .site-banner .gsf-submit-btn:hover {
-   background: #f36f23;
+   background: #952456;
 }
 
 .article-content {
@@ -2577,7 +2523,7 @@ a:hover {
 
 .article-content h2 {
    font-family: Raleway, sans-serif;
-   color: #8fbe24;
+   color: #7A8C5D;
    font-size: 32px;
    font-size: 3.2rem;
    line-height: 1.25em;
@@ -2596,7 +2542,7 @@ a:hover {
 
 .article-content h3 {
    font-family: Raleway, sans-serif;
-   color: #f36f23;
+   color: #952456;
    font-weight: 300;
    font-size: 26px;
    font-size: 2.6rem;
@@ -2622,19 +2568,19 @@ a:hover {
 }
 
 .article-content .lien2 {
-   color: #8fbe24;
+   color: #7A8C5D;
    margin-left: 10px;
 }
 
 .article-content .lien2:before {
-   content: url(/theme/sitevi_git_mobile/img/icons/icon-download.svg);
+   content: url(img/icons/icon-download.svg);
    display: block;
    width: 12px;
    float: left;
 }
 
 .article-content blockquote {
-   color: #f36f23;
+   color: #952456;
    background: #fff;
    font-family: ITC Avant Garde Gothic W01, sans-serif;
    font-weight: 100;
@@ -2657,7 +2603,7 @@ a:hover {
 }
 
 .article-content blockquote:before {
-   content: url(/theme/sitevi_git_mobile/img/icons/icon-quote.svg);
+   content: url(img/icons/icon-quote.svg);
    display: block;
    top: 5px;
    position: absolute;
@@ -2720,7 +2666,7 @@ a:hover {
 }
 
 .article-content table thead tr {
-   background: #8fbe24;
+   background: #7A8C5D;
    color: #fff;
    text-transform: uppercase;
    font-weight: 600;
@@ -2763,7 +2709,7 @@ a:hover {
 
 .article-content .focus1 {
    margin: 20px 0 0;
-   background: #8fbe24;
+   background: #7A8C5D;
    padding: 1.5em;
    color: #fff;
 }
@@ -2831,7 +2777,7 @@ a:hover {
            box-sizing: border-box;
    width: auto;
    height: auto;
-   background-color: #8fbe24;
+   background-color: #7A8C5D;
    display: inline-block;
    position: relative;
    float: left;
@@ -2884,7 +2830,7 @@ a:hover {
 
 .article-wrapper .article-intro {
    margin: 0 -24px;
-   background-color: #8fbe24;
+   background-color: #7A8C5D;
    padding: 0 20px 20px;
 }
 
@@ -2914,7 +2860,7 @@ a:hover {
    font-size: 3.6rem;
    font-weight: 200;
    text-transform: none;
-   color: #8fbe24;
+   color: #7A8C5D;
    border: none;
 }
 
@@ -2935,7 +2881,7 @@ a:hover {
       width: 76px;
       height: 68px;
       top: -20px;
-      background: url(/theme/sitevi_git_mobile/img/_tmp/corner.png) no-repeat;
+      background: url(img/_tmp/corner.png) no-repeat;
       z-index: 2;
    }
 }
@@ -3003,7 +2949,7 @@ a:hover {
       height: 100%;
       width: 100%;
       padding: 30px;
-      background: #8fbe24;
+      background: #7A8C5D;
       -webkit-transition: height 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
       -o-transition: height 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
       transition: height 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -3027,7 +2973,7 @@ a:hover {
       bottom: auto;
       height: auto;
       padding: 25px 30px;
-      background: #f36f23;
+      background: #952456;
    }
 }
 
@@ -3062,7 +3008,7 @@ a:hover {
 .press-meeting .gla-item-content {
    height: auto;
    min-height: 140px;
-   background: #f36f23;
+   background: #952456;
    padding: 30px 45px;
    color: #fff;
 }
@@ -3070,7 +3016,7 @@ a:hover {
 .event-animations .gla-item-content {
    padding: 40px 20px 20px;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
 }
 
 @media (min-width: 750px) {
@@ -3195,7 +3141,7 @@ body.catalogue {
 .mod-catal h2 {
    font-family: Raleway, sans-serif;
    font-weight: 700;
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal h2 {
@@ -3203,15 +3149,15 @@ body.catalogue {
 }
 
 .mod-catal a:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .catal-results-title {
-   border-color: #8fbe24;
+   border-color: #7A8C5D;
 }
 
 .mod-catal .catal-ed-main-title {
-   color: #8fbe24;
+   color: #7A8C5D;
    font-family: Raleway, sans-serif;
    font-weight: 700;
    text-transform: uppercase;
@@ -3219,13 +3165,13 @@ body.catalogue {
 
 .mod-catal .catal-ed-activity .catal-ed-activity-link {
    color: #fff;
-   background: #8fbe24;
+   background: #7A8C5D;
    padding: .9rem .8rem .7rem;
 }
 
 .mod-catal .catal-ed-activity .catal-ed-activity-link:hover {
    color: #fff;
-   background: #f36f23;
+   background: #952456;
 }
 
 .mod-catal .catal-ed-activity .catal-ed-activity-title {
@@ -3241,7 +3187,7 @@ body.catalogue {
 }
 
 .mod-catal .catal-ex-item-title a:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .catal-ex-item-buttons .animation-txt {
@@ -3261,7 +3207,7 @@ body.catalogue {
 .mod-catal .icon-catal-chevrons,
 .mod-catal .icon-catal-cross,
 .mod-catal .icon-catal-long-arrow-right {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .selection-empty .icon-catal-star-empty {
@@ -3274,15 +3220,15 @@ body.catalogue {
 
 .mod-catal .esf-as-list-filters a,
 .mod-catal .esf-as-list-filters a .esf-as-list-filters-next-lvl:after {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .esf-as-list-filters a:hover {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-as-list-filters a:hover .esf-as-list-filters-next-lvl:after {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .esf-as-af-filters span {
@@ -3302,7 +3248,7 @@ body.catalogue {
 }
 
 .mod-catal .esf-as-header .esf-as-title {
-   background: #f36f23;
+   background: #952456;
    font-size: 15px;
    font-size: 1.5rem;
    width: 100%;
@@ -3312,7 +3258,7 @@ body.catalogue {
 .mod-catal .esf-as-header .esf-as-title:active,
 .mod-catal .esf-as-header .esf-as-title:focus,
 .mod-catal .esf-as-header .esf-as-title:hover {
-   background: #f36f23 !important;
+   background: #952456 !important;
 }
 
 @media (min-width: 750px) {
@@ -3328,11 +3274,11 @@ body.catalogue {
 }
 
 .mod-catal .esf-sublvl-heading:hover {
-   background: #8fbe24 !important;
+   background: #7A8C5D !important;
 }
 
 .mod-catal .esf-sublvl-heading:hover .icon-catal-arrow-left {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .esf-sublvl-heading:hover .icon-catal-arrow-left:before {
@@ -3341,7 +3287,7 @@ body.catalogue {
 }
 
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl .icon-catal-arrow-left {
@@ -3353,7 +3299,7 @@ body.catalogue {
 }
 
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl:hover .icon-catal-arrow-left {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl:hover .icon-catal-arrow-left:before {
@@ -3362,24 +3308,24 @@ body.catalogue {
 }
 
 .mod-catal .esf-sublvl-heading .esf-back-to-prev-lvl .icon-catal-arrow-left:before {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .esf-sublvl-heading.esf-sublvl-heading {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-tree .esf-has-sub-items>.esf-choice-container .esf-next-lvl:after {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal .esf-tree .esf-has-sub-items>.esf-choice-container .esf-next-lvl:hover:after {
-   background: #8fbe24;
+   background: #7A8C5D;
    color: #fff;
 }
 
 .mod-catal .esf-as-list-filters .current a {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .hist-footer .btn-invert,
@@ -3389,7 +3335,7 @@ body.catalogue {
    font-family: Raleway, sans-serif;
    border: none;
    font-weight: 400;
-   background: #8fbe24;
+   background: #7A8C5D;
    color: #fff;
 }
 
@@ -3401,7 +3347,7 @@ body.catalogue {
 .mod-catal .mysel-footer .btn-invert:hover,
 .mod-catal .mysel-footer .btn-primary:focus,
 .mod-catal .mysel-footer .btn-primary:hover {
-   background: #f36f23;
+   background: #952456;
    color: #fff;
 }
 
@@ -3441,7 +3387,7 @@ body.catalogue {
 
 .mod-catal .btn-primary {
    color: #fff;
-   background: #8fbe24;
+   background: #7A8C5D;
    font-family: Raleway, sans-serif;
    text-transform: uppercase;
    border: none;
@@ -3449,7 +3395,7 @@ body.catalogue {
 
 .mod-catal .btn-primary:focus,
 .mod-catal .btn-primary:hover {
-   background: #f36f23;
+   background: #952456;
 }
 
 .mod-catal .btn-primary .selection-empty,
@@ -3467,7 +3413,7 @@ body.catalogue {
    display: block;
    width: 25px;
    height: 22px;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-heart-plus.svg) no-repeat;
+   background: url(img/icons/icon-heart-plus.svg) no-repeat;
    z-index: 2;
 }
 
@@ -3479,7 +3425,7 @@ body.catalogue {
 
 .mod-catal .esf-search-line a:focus,
 .mod-catal .esf-search-line a:hover {
-   color: #8fbe24 !important;
+   color: #7A8C5D !important;
 }
 
 .mod-catal .esf-search-line a:after {
@@ -3498,7 +3444,7 @@ body.catalogue {
    font-weight: 200;
    line-height: 1.2;
    text-transform: uppercase;
-   color: #8fbe24;
+   color: #7A8C5D;
    border: none;
 }
 
@@ -3515,7 +3461,7 @@ body.catalogue {
    top: 0;
    height: 5rem;
    padding: 0 1rem;
-   background: #f36f23;
+   background: #952456;
    color: #fff;
 }
 
@@ -3531,11 +3477,11 @@ body.catalogue {
 
 .mod-catal .esf-results-zone .esf-results-alpha-list a:focus,
 .mod-catal .esf-results-zone .esf-results-alpha-list a:hover {
-   color: #f36f23;
+   color: #952456;
 }
 
 .mod-catal .esf-results-zone .esf-results-alpha-list .current {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-results-zone .esf-results-alpha-list .current:after {
@@ -3557,13 +3503,13 @@ body.catalogue {
 }
 
 .mod-catal .esf-search-line #esf-btn-search {
-   background: #f36f23;
+   background: #952456;
    font-weight: 400;
    border: none;
 }
 
 .mod-catal .esf-search-line #esf-btn-search:hover {
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .mod-catal .esf-search-line a {
@@ -3615,7 +3561,7 @@ body.catalogue {
 
 .icon-catal-long-arrow-left,
 .icon-catal-long-arrow-right {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal.catal-nav-ex .btn-primary {
@@ -3628,7 +3574,7 @@ body.catalogue {
 }
 
 .mod-catal.catal-nav-ex .catal-nav-ex-link span:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .mod-catal.catal-nav-ex .catal-nav-ex-link:hover {
@@ -3640,7 +3586,7 @@ body.catalogue {
 }
 
 .mod-catal.catal-nav-ex .catal-nav-ex-sep {
-   border-left: 5px solid #8fbe24;
+   border-left: 5px solid #7A8C5D;
 }
 
 .mod-catal.catal-nav-ex .catal-nav-ex-link,
@@ -3653,7 +3599,7 @@ body.catalogue {
 .mod-catal.catal-nav-ex .catal-nav-ex-link:hover,
 .mod-catal.catal-nav-ex .catal-nav-ex-more-link .icon-catal,
 .mod-catal.catal-nav-ex .catal-nav-ex-more-link:hover {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .social-networks {
@@ -3675,7 +3621,7 @@ body.catalogue {
 #zone3 .social-networks {
    margin-top: 0;
    padding: 25px 0;
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .social-networks .ql-list {
@@ -3687,7 +3633,7 @@ body.catalogue {
 }
 
 #zone3 .social-networks .ql-list {
-   background: #8fbe24;
+   background: #7A8C5D;
    border: none;
    overflow: hidden;
    text-align: center;
@@ -3755,39 +3701,39 @@ body.catalogue {
 .linkid175758 .btn-primary:before {
    width: 20px;
    height: 20px;
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-fcbk.svg);
+   background-image: url(img/icons/icon-social-fcbk.svg);
 }
 
 #zone3 .linkid175758 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-fcbk-green.svg);
+   background-image: url(img/icons/icon-social-fcbk-green.svg);
 }
 
 .linkid175759 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-twitter.svg);
+   background-image: url(img/icons/icon-social-twitter.svg);
 }
 
 #zone3 .linkid175759 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-twitter-green.svg);
+   background-image: url(img/icons/icon-social-twitter-green.svg);
 }
 
 .linkid175760 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-youtube.svg);
+   background-image: url(img/icons/icon-social-youtube.svg);
 }
 
 #zone3 .linkid175760 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-youtube-green.svg);
+   background-image: url(img/icons/icon-social-youtube-green.svg);
 }
 
 .linkid175894 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-insta.svg);
+   background-image: url(img/icons/icon-social-insta.svg);
 }
 
 #zone3 .linkid175894 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-flicker-green.svg);
+   background-image: url(img/icons/icon-social-flicker-green.svg);
 }
 
 .linkid820321 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-social-in.svg);
+   background-image: url(img/icons/icon-social-in.svg);
 }
 
 .social-sharing {
@@ -3810,7 +3756,7 @@ body.catalogue {
 
 .social-sharing .unstyled .sr-item .sr-link-facebook:before {
    content: "";
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-social-fcbk-white.svg) no-repeat;
+   background: url(img/icons/icon-social-fcbk-white.svg) no-repeat;
    width: 25px;
    left: 0;
    display: block;
@@ -3828,7 +3774,7 @@ body.catalogue {
 
 .social-sharing .unstyled .sr-item .sr-link-twitter:before {
    content: "";
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-social-twitter-white.svg) no-repeat;
+   background: url(img/icons/icon-social-twitter-white.svg) no-repeat;
    width: 25px;
    left: 0;
    display: block;
@@ -3872,7 +3818,7 @@ body.catalogue {
 
 .exhibitor-area .btn-primary:focus,
 .exhibitor-area .btn-primary:hover {
-   color: #f36f23;
+   color: #952456;
 }
 
 .linkid175896 .btn-primary:after {
@@ -3883,7 +3829,7 @@ body.catalogue {
    margin-top: -2px;
    margin-left: 10px;
    vertical-align: middle;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-lock.svg) 50%/contain no-repeat;
+   background: url(img/icons/icon-lock.svg) 50%/contain no-repeat;
    opacity: .7;
 }
 
@@ -3943,7 +3889,7 @@ body.catalogue {
 }
 
 #zone3 .edito {
-   background: #8fbe24;
+   background: #7A8C5D;
    padding-top: 30px;
    margin-top: 10px;
 }
@@ -3969,7 +3915,7 @@ body.catalogue {
    }
 }
 
-.content175755 #zone2 .edito:before,
+/*.content175755 #zone2 .edito:before,
 .content184011 #zone2 .edito:before,
 .content206559 #zone2 .edito:before,
 .content216440 #zone2 .edito:before,
@@ -3982,7 +3928,7 @@ body.catalogue {
    display: block;
    width: 50px;
    height: 30px;
-   background: #8fbe24;
+   background: #7A8C5D;
    -webkit-transform: translateX(-50%);
    -ms-transform: translateX(-50%);
        transform: translateX(-50%);
@@ -4005,7 +3951,7 @@ body.catalogue {
       -ms-transform: none;
           transform: none;
    }
-}
+}*/
 
 .contacts-list .inside .content175755 .edito h1,
 .contacts-list .inside .content184011 .edito h1,
@@ -4127,8 +4073,8 @@ body.catalogue {
 .content175755 .edito .inside,
 .content184011 .edito .inside,
 .front .edito .inside {
-   margin: 0 auto 50px;
-   padding-top: 40px;
+   margin: 0 auto;
+/*   padding-top: 40px;*/
 }
 
 @media (min-width: 750px) {
@@ -4282,7 +4228,7 @@ body.catalogue {
    -webkit-box-direction: normal;
            flex-direction: column;
    color: #fff;
-   background: #8fbe24;
+   background: #7A8C5D;
    opacity: 1;
    -webkit-transform-origin: 0 0;
    -ms-transform-origin: 0 0;
@@ -4335,7 +4281,7 @@ body.catalogue {
    width: 60px;
    height: 60px;
    margin: auto;
-   background: #8fbe24;
+   background: #7A8C5D;
    border-radius: 50%;
 }
 
@@ -4377,7 +4323,7 @@ body.catalogue {
    clear: both;
    width: auto;
    margin: 0 -20px;
-   background: #fff url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: #fff url(img/bg-dotted.png);
    text-shadow: 0 0 3px #fff;
    overflow: hidden;
 }
@@ -4412,7 +4358,7 @@ body.catalogue {
       left: 40px;
       width: 255px;
       height: 100%;
-      background: url(/theme/sitevi_git_mobile/img/corner-left-s-big-green.png) 0 0 no-repeat;
+      background: url(img/corner-left-s-big-green.png) 0 0 no-repeat;
    }
 }
 
@@ -4497,15 +4443,15 @@ body.catalogue {
 }
 
 .linkid175918 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/filieres/icon-filiere-vin.svg);
+   background-image: url(img/filieres/icon-filiere-vin.svg);
 }
 
 .linkid175919 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/filieres/icon-filiere-olives.svg);
+   background-image: url(img/filieres/icon-filiere-olives.svg);
 }
 
 .linkid175920 .btn-primary:before {
-   background-image: url(/theme/sitevi_git_mobile/img/filieres/icon-filiere-fruits.svg);
+   background-image: url(img/filieres/icon-filiere-fruits.svg);
 }
 
 .event-animations {
@@ -4527,7 +4473,7 @@ body.catalogue {
       left: 0;
       right: 0;
       height: 125px;
-      background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+      background: url(img/bg-dotted.png);
       z-index: 0;
    }
 }
@@ -4575,7 +4521,7 @@ body.catalogue {
 .event-animations .partner-list .inside h1,
 .partner-list .inside .event-animations h1 {
    padding-top: 0;
-   color: #f36f23;
+   color: #952456;
 }
 
 @media (min-width: 750px) {
@@ -4595,7 +4541,7 @@ body.catalogue {
 .partner-list .inside .event-animations h1:before {
    top: 60px;
    height: 87px;
-   background-image: url(/theme/sitevi_git_mobile/img/corner-left-l-inverse-orange.png);
+   background-image: url(img/corner-left-l-inverse-orange.png);
 }
 
 .edito .edito-item-btn .event-animations a,
@@ -4741,7 +4687,7 @@ body.catalogue {
    width: 320px;
    height: 60px;
    z-index: 0;
-   background: url(/theme/sitevi_git_mobile/img/corner-right-z-green.png) 100%/contain no-repeat;
+   background: url(img/corner-right-z-green.png) 100%/contain no-repeat;
 }
 
 .exhibitor-categories .inside {
@@ -4781,7 +4727,7 @@ body.catalogue {
 
 .exhibitor-categories__item a:focus,
 .exhibitor-categories__item a:hover {
-   color: #f36f23;
+   color: #952456;
 }
 
 .exhibitor-categories__img {
@@ -4826,7 +4772,7 @@ a .exhibitor-categories__img img:hover {
    right: 0;
    bottom: 0;
    height: 245px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted-white.png);
+   background: url(img/bg-dotted-white.png);
 }
 
 .key-figures .main-title-with-link {
@@ -5041,7 +4987,7 @@ a .exhibitor-categories__img img:hover {
 .seo {
    position: relative;
    overflow: hidden;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
 }
 
 .front .seo .inside {
@@ -5212,7 +5158,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .pg-pagin-nb .active {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .slider [class*=slider-btn] {
@@ -5342,7 +5288,7 @@ a .exhibitor-categories__img img:hover {
    text-align: center;
    text-decoration: none;
    vertical-align: top;
-   color: #f36f23;
+   color: #952456;
 }
 
 .key-numbers__list__item+.key-numbers__list__item,
@@ -5410,14 +5356,14 @@ a .exhibitor-categories__img img:hover {
 
 .key-numbers__list .item1:before,
 .key-numbers ul .item1:before {
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre1.svg) no-repeat;
+   background: url(img/icons/icon-chiffre1.svg) no-repeat;
    width: 82px;
    height: 62px;
 }
 
 .key-numbers__list .item2:before,
 .key-numbers ul .item2:before {
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre2.svg) no-repeat;
+   background: url(img/icons/icon-chiffre2.svg) no-repeat;
    width: 70px;
    height: 62px;
 }
@@ -5427,7 +5373,7 @@ a .exhibitor-categories__img img:hover {
    padding-top: 2px;
    width: 49px;
    height: 62px;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre3.svg) no-repeat;
+   background: url(img/icons/icon-chiffre3.svg) no-repeat;
 }
 
 .goals {
@@ -5446,7 +5392,7 @@ a .exhibitor-categories__img img:hover {
    left: 0;
    right: 0;
    height: 120px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
    z-index: 0;
 }
 
@@ -5471,7 +5417,7 @@ a .exhibitor-categories__img img:hover {
       z-index: 0;
       width: 251px;
       height: 63px;
-      background: url(/theme/sitevi_git_mobile/img/corner-right-z-orange.png) 50%/contain no-repeat;
+      background: url(img/corner-right-z-orange.png) 50%/contain no-repeat;
    }
 }
 
@@ -5512,7 +5458,7 @@ a .exhibitor-categories__img img:hover {
 .goals .ql-item a:before {
    width: 100px;
    text-align: center;
-   background: #f36f23;
+   background: #952456;
    border-radius: 50%;
 }
 
@@ -5563,7 +5509,7 @@ a .exhibitor-categories__img img:hover {
    width: 15px;
    height: 15px;
    margin: auto;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-arrow-right-orange.svg) 50%/contain no-repeat;
+   background: url(img/icons/icon-arrow-right-orange.svg) 50%/contain no-repeat;
 }
 
 .goals .ql-item a .txt-btn .first-word {
@@ -5577,22 +5523,22 @@ a .exhibitor-categories__img img:hover {
 
 .goals .linkid183750 a:after {
    width: 50px;
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-dopez.svg);
+   background-image: url(img/icons/icon-dopez.svg);
 }
 
 .goals .linkid183751 a:after {
    width: 65px;
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-recrutez.svg);
+   background-image: url(img/icons/icon-recrutez.svg);
 }
 
 .goals .linkid183753 a:after {
    width: 55px;
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-fidelisez.svg);
+   background-image: url(img/icons/icon-fidelisez.svg);
 }
 
 .goals .linkid183754 a:after {
    width: 45px;
-   background-image: url(/theme/sitevi_git_mobile/img/icons/icon-augmentez.svg);
+   background-image: url(img/icons/icon-augmentez.svg);
 }
 
 .participation-keys {
@@ -5603,7 +5549,7 @@ a .exhibitor-categories__img img:hover {
    top: 30px;
    margin: 0 -20px;
    padding: 20px;
-   background: url(/theme/sitevi_git_mobile/img/bg-participation-keys.jpg) 50%/cover no-repeat;
+   background: url(img/bg-participation-keys.jpg) 50%/cover no-repeat;
    overflow: hidden;
    z-index: 1;
 }
@@ -5691,7 +5637,7 @@ a .exhibitor-categories__img img:hover {
    bottom: 30px;
    width: 15px;
    height: 15px;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-arrow-right-white.svg) 50%/contain no-repeat;
+   background: url(img/icons/icon-arrow-right-white.svg) 50%/contain no-repeat;
 }
 
 .participation-keys .ql-item .btn-primary:before {
@@ -5734,7 +5680,7 @@ a .exhibitor-categories__img img:hover {
    font-size: 1.8rem;
    font-weight: 700;
    text-transform: uppercase;
-   color: #f36f23;
+   color: #952456;
 }
 
 @media (min-width: 750px) {
@@ -5805,7 +5751,7 @@ a .exhibitor-categories__img img:hover {
    width: 14px;
    border-radius: 50%;
    height: 14px;
-   background: #f36f23;
+   background: #952456;
 }
 
 @media (min-width: 750px) {
@@ -5835,7 +5781,7 @@ a .exhibitor-categories__img img:hover {
    width: 5px;
    border-radius: 50%;
    height: 5px;
-   border: 3px solid #f36f23;
+   border: 3px solid #952456;
    background: #fff;
 }
 
@@ -5871,7 +5817,7 @@ a .exhibitor-categories__img img:hover {
    left: 0;
    right: 0;
    height: 126px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
    z-index: 0;
 }
 
@@ -5991,7 +5937,7 @@ a .exhibitor-categories__img img:hover {
    left: 0;
    right: 0;
    height: 120px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
 }
 
 .content206559 .press-contact:before {
@@ -6102,7 +6048,7 @@ a .exhibitor-categories__img img:hover {
    float: left;
    width: 70px;
    height: 84px;
-   background: url(/theme/sitevi_git_mobile/img/_tmp/contact-presse.png) 50% no-repeat;
+   background: url(img/_tmp/contact-presse.png) 50% no-repeat;
 }
 
 .press-contact .inside .block-content .relation p {
@@ -6121,7 +6067,7 @@ a .exhibitor-categories__img img:hover {
    float: left;
    width: 75px;
    height: 122px;
-   background: url(/theme/sitevi_git_mobile/img/_tmp/logo-clc.png) 50% no-repeat;
+   background: url(img/_tmp/logo-clc.png) 50% no-repeat;
 }
 
 .press-contact .inside .block-content .agence ul {
@@ -6172,7 +6118,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .press-contact .inside .block-content2 .lien2 {
-   color: #8fbe24;
+   color: #7A8C5D;
    margin-left: 10px;
    font-size: 13px;
    font-size: 1.3rem;
@@ -6186,7 +6132,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .press-contact .inside .block-content2 .lien2:before {
-   content: url(/theme/sitevi_git_mobile/img/icons/icon-download.svg);
+   content: url(img/icons/icon-download.svg);
    display: block;
    width: 12px;
    float: left;
@@ -6226,7 +6172,7 @@ a .exhibitor-categories__img img:hover {
    padding: 16px 20px;
    font-weight: 700;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    line-height: 1.5;
    text-transform: uppercase;
 }
@@ -6267,7 +6213,7 @@ a .exhibitor-categories__img img:hover {
    font-size: 2.2rem;
    font-weight: 200;
    margin-bottom: 20px;
-   color: #f36f23;
+   color: #952456;
    line-height: 1;
    text-transform: uppercase;
 }
@@ -6435,7 +6381,7 @@ a .exhibitor-categories__img img:hover {
    padding: 16px 20px;
    font-weight: 200;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    line-height: 1.5;
    text-transform: uppercase;
 }
@@ -6453,7 +6399,7 @@ a .exhibitor-categories__img img:hover {
    font-size: 22px;
    font-weight: 200;
    margin-bottom: 20px;
-   color: #f36f23;
+   color: #952456;
    line-height: 1;
    text-transform: uppercase;
 }
@@ -6473,7 +6419,7 @@ a .exhibitor-categories__img img:hover {
    left: 0;
    right: 0;
    height: 162px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
    z-index: 0;
 }
 
@@ -6537,7 +6483,7 @@ a .exhibitor-categories__img img:hover {
        transform: translateX(-50%);
    right: 0;
    height: 80px;
-   background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: url(img/bg-dotted.png);
    z-index: 0;
 }
 
@@ -6545,7 +6491,7 @@ a .exhibitor-categories__img img:hover {
    .chiffre-global:after {
       height: 200px;
       display: block;
-      background: url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+      background: url(img/bg-dotted.png);
    }
 }
 
@@ -6569,7 +6515,7 @@ a .exhibitor-categories__img img:hover {
    font-weight: 200;
    line-height: 1.3;
    text-transform: none;
-   color: #f36f23;
+   color: #952456;
    border: none;
    top: 0;
    position: absolute;
@@ -6594,7 +6540,7 @@ a .exhibitor-categories__img img:hover {
    left: 285px;
    width: 92px;
    height: 73px;
-   background: url(/theme/sitevi_git_mobile/img/corner-right-l-inverse-orange.png) 50%/contain no-repeat;
+   background: url(img/corner-right-l-inverse-orange.png) 50%/contain no-repeat;
    z-index: 2;
 }
 
@@ -6637,7 +6583,7 @@ a .exhibitor-categories__img img:hover {
    margin: 80px 0 0 !important;
    position: relative;
    z-index: 10;
-   background: #f36f23;
+   background: #952456;
    padding: 30px 0 0;
    overflow: hidden;
 }
@@ -6739,14 +6685,14 @@ a .exhibitor-categories__img img:hover {
 
 .chiffre__list .item1:before,
 .chiffre ul .item1:before {
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre1-white.svg) no-repeat;
+   background: url(img/icons/icon-chiffre1-white.svg) no-repeat;
    width: 82px;
    height: 62px;
 }
 
 .chiffre__list .item2:before,
 .chiffre ul .item2:before {
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre2-white.svg) no-repeat;
+   background: url(img/icons/icon-chiffre2-white.svg) no-repeat;
    width: 70px;
    height: 62px;
 }
@@ -6756,7 +6702,7 @@ a .exhibitor-categories__img img:hover {
    padding-top: 2px;
    width: 49px;
    height: 62px;
-   background: url(/theme/sitevi_git_mobile/img/icons/icon-chiffre3-white.svg) no-repeat;
+   background: url(img/icons/icon-chiffre3-white.svg) no-repeat;
 }
 
 .chiffre2 {
@@ -6765,7 +6711,7 @@ a .exhibitor-categories__img img:hover {
    width: auto;
    position: relative;
    z-index: 10;
-   background: #8fbe24;
+   background: #7A8C5D;
    padding: 20px 0 5px;
    overflow: hidden;
 }
@@ -6773,7 +6719,7 @@ a .exhibitor-categories__img img:hover {
 @media (min-width: 750px) {
    .chiffre2 {
       padding: 0 20px;
-      background: #f36f23;
+      background: #952456;
       margin: -15px 0 0 -20px !important;
       max-height: 195px;
    }
@@ -6910,7 +6856,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .comunicado .link-read-more {
-   color: #8fbe24;
+   color: #7A8C5D;
    margin-left: 5px;
    font-size: 13px;
    font-size: 1.3rem;
@@ -6926,7 +6872,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .comunicado .link-read-more:before {
-   content: url(/theme/sitevi_git_mobile/img/icons/icon-download.svg);
+   content: url(img/icons/icon-download.svg);
    display: block;
    width: 12px;
    float: left;
@@ -6987,7 +6933,7 @@ a .exhibitor-categories__img img:hover {
    font-weight: 200;
    line-height: 1.3;
    text-transform: none;
-   color: #8fbe24;
+   color: #7A8C5D;
    border: none;
 }
 
@@ -7008,7 +6954,7 @@ a .exhibitor-categories__img img:hover {
       display: block;
       width: 73px;
       height: 67px;
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-green.png) 50%/contain no-repeat;
+      background: url(img/corner-left-l-green.png) 50%/contain no-repeat;
       z-index: 2;
    }
 }
@@ -7022,7 +6968,7 @@ a .exhibitor-categories__img img:hover {
    padding: 16px 20px;
    font-weight: 700;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    line-height: 1.5;
    text-transform: uppercase;
 }
@@ -7042,7 +6988,7 @@ a .exhibitor-categories__img img:hover {
 
 .faq .fs-item-link .fc-item-nb,
 .faq .fs-item-link .fs-item-nb {
-   color: #8fbe24;
+   color: #7A8C5D;
    background: none;
    position: absolute;
    margin-top: 1px;
@@ -7055,14 +7001,14 @@ a .exhibitor-categories__img img:hover {
    padding-left: 30px;
    font-weight: 400;
    margin-bottom: 20px;
-   color: #f36f23;
+   color: #952456;
    line-height: 1;
    text-transform: uppercase;
    text-decoration: none;
 }
 
 .faq .fs-item-link .fs-item-title i {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .faq .faq-content a {
@@ -7075,21 +7021,21 @@ a .exhibitor-categories__img img:hover {
    font-size: 2.2rem;
    font-weight: 400;
    margin-bottom: 20px;
-   color: #f36f23;
+   color: #952456;
    line-height: 1;
    text-transform: uppercase;
    text-decoration: none;
 }
 
 .faq .faq-content .fc-title .fc-item-nb {
-   color: #8fbe24;
+   color: #7A8C5D;
    margin-right: 0;
    background: none;
 }
 
 .faq .fc-item-link .icon,
 .sitemap h1 {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .sitemap h1 {
@@ -7123,7 +7069,7 @@ a .exhibitor-categories__img img:hover {
       display: block;
       width: 73px;
       height: 67px;
-      background: url(/theme/sitevi_git_mobile/img/corner-left-l-green.png) 50%/contain no-repeat;
+      background: url(img/corner-left-l-green.png) 50%/contain no-repeat;
       z-index: 2;
    }
 }
@@ -7137,7 +7083,7 @@ a .exhibitor-categories__img img:hover {
    padding: 16px 20px;
    font-weight: 700;
    color: #fff;
-   background: #f36f23;
+   background: #952456;
    line-height: 1.5;
    text-transform: uppercase;
 }
@@ -7190,7 +7136,7 @@ a .exhibitor-categories__img img:hover {
 
 .newsletter-form .nf-form-submit {
    float: left;
-   background: #8fbe24;
+   background: #7A8C5D;
 }
 
 .newsletter-form .nf-form-submit i {
@@ -7199,8 +7145,8 @@ a .exhibitor-categories__img img:hover {
 
 .newsletter-form .nf-form-submit [class^=btn] {
    color: #fff;
-   background: #8fbe24;
-   border-color: #8fbe24;
+   background: #7A8C5D;
+   border-color: #7A8C5D;
 }
 
 .newsletter-form .nf-main-content {
@@ -7214,7 +7160,7 @@ a .exhibitor-categories__img img:hover {
    -webkit-transform: translate(-50%, -50%);
    -ms-transform: translate(-50%, -50%);
        transform: translate(-50%, -50%);
-   background: #f36f23;
+   background: #952456;
 }
 
 .newsletter-form .nf-main-content .btn-close {
@@ -7223,12 +7169,12 @@ a .exhibitor-categories__img img:hover {
 }
 
 .newsletter-form .nf-main-content .nf-result .nf-success-msg.has-error .icon {
-   color: #8fbe24;
+   color: #7A8C5D;
 }
 
 .newsletter-form .nf-main-content .nf-result .nf-success-msg.has-error button .btn-primary {
    color: #fff;
-   background: #8fbe24;
+   background: #7A8C5D;
    border: none;
 }
 
@@ -7788,7 +7734,7 @@ a .exhibitor-categories__img img:hover {
    position: absolute;
    left: 0;
    top: 0;
-   background-image: url("/theme/sitevi_git_mobile/img/apostrophes.svg");
+   background-image: url("img/apostrophes.svg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: 100%;
@@ -7815,13 +7761,13 @@ a .exhibitor-categories__img img:hover {
 }
 
 .exposant-banner {
-   background-image: url("/theme/sitevi_git_mobile/img/bg-header-exposant.jpg");
+   background-image: url("img/bg-header-exposant.jpg");
    background-size: cover;
    background-position: center center;
 }
 
 .exposant-banner.exposant-banner-inscription {
-   background-image: url("/theme/sitevi_git_mobile/img/inscription-en-ligne.jpg");
+   background-image: url("img/inscription-en-ligne.jpg");
 }
 
 .exposant-banner.exposant-banner-inscription .block-wrap .exposant-banner-content {
@@ -8004,7 +7950,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .line-title {
-   background: #fff url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: #fff url(img/bg-dotted.png);
    position: relative;
 }
 
@@ -8155,7 +8101,7 @@ a .exhibitor-categories__img img:hover {
    left: 0;
    top: 0;
    position: absolute;
-   background-image: url("/theme/sitevi_git_mobile/img/bg-exposants.jpg");
+   background-image: url("img/bg-exposants.jpg");
    background-size: cover;
    opacity: 0.25;
    -webkit-filter: grayscale(0.5);
@@ -8263,7 +8209,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .visiteurs-qualifie .block-wrap .puce.puce-orange {
-   background-color: #F36F23;
+   background-color: #952456;
 }
 
 .visiteurs-qualifie .block-wrap .puce.puce-jaune {
@@ -8284,7 +8230,7 @@ a .exhibitor-categories__img img:hover {
 }
 
 .devenir-exposant {
-   background: #fff url(/theme/sitevi_git_mobile/img/bg-dotted.png);
+   background: #fff url(img/bg-dotted.png);
    text-align: center;
 }
 
